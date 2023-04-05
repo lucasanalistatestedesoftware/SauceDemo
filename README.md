@@ -1,4 +1,4 @@
-# SauceDemo
+# teste automatizado selenium, cucumber e JUnit (SauceDemo)
 
 Login com credenciais válidas e inválidas:
 
